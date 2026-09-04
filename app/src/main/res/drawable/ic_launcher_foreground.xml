@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center white rounded badge background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C68.36,28 80,39.64 80,54 C80,68.36 68.36,80 54,80 C39.64,80 28,68.36 28,54 C28,39.64 39.64,28 54,28 Z" />
+
+    <!-- Quiz Q Icon in Indigo -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M54,34 C44.06,34 36,42.06 36,52 C36,61.94 44.06,70 54,70 C58.24,70 62.12,68.53 65.18,66.08 L69.59,70.49 C70.37,71.27 71.63,71.27 72.41,70.49 C73.19,69.71 73.19,68.45 72.41,67.67 L68.22,63.48 C70.58,60.27 72,56.3 72,52 C72,42.06 63.94,34 54,34 Z M54,40 C60.63,40 66,45.37 66,52 C66,58.63 60.63,64 54,64 C47.37,64 42,58.63 42,52 C42,45.37 47.37,40 54,40 Z" />
+
+    <!-- Center Math Symbol (Plus) -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M52,47 h4 v10 h-4 z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M49,50 h10 v4 h-10 z" />
+</vector>

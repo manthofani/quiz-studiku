@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="app_description">Test your mental math skills across Easy, Medium, and Hard difficulty levels. 10 questions per round.</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="choose_difficulty">Choose Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="best_score">Best Score</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="play_again">Play Again</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
